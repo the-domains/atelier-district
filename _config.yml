@@ -1,12 +1,27 @@
+name: Atelier District
+favicon: null
 layout_spectrum: 0
+typography_spectrum: 0.7297872
+title: Landscape Architectural Studio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7127659
-  brandStrength: 0.4489362
-  lightness: 0.5510638
   brandColors:
     - '#808080'
     - '#FFFFFF'
     - '#A5A5A5'
+  brandStrength: 0.4489362
+  lightness: 0.5510638
+  saturation: 0.7127659
   rhythmicContrast: 0.7851064
-typography_spectrum: 0.7297872
-name: Atelier District
+purpose: []
