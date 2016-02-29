@@ -1,0 +1,12 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7127659
+  brandStrength: 0.4489362
+  lightness: 0.5510638
+  brandColors:
+    - '#808080'
+    - '#FFFFFF'
+    - '#A5A5A5'
+  rhythmicContrast: 0.7851064
+typography_spectrum: 0.7297872
+name: Atelier District
